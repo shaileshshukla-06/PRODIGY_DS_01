@@ -18,3 +18,6 @@ Top 10 Most Populous Countries (2023)
 
 ## Outcome
 Created a horizontal bar chart showing the ten most populous countries using World Bank population data.
+
+<img width="1483" height="829" alt="image" src="https://github.com/user-attachments/assets/8b9a8844-ce86-4442-a030-517c24d8c8f5" />
+
