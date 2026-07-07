@@ -11,7 +11,6 @@ World Bank Total Population Dataset (SP.POP.TOTL)
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab
 
 ## Visualization
 Top 10 Most Populous Countries (2023)
